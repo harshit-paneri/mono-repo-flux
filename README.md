@@ -1,14 +1,14 @@
 # Mono Repo for FLux
 
---Structure--
-├── apps
-│   ├── base
-│   ├── production 
-│   └── staging
-├── infrastructure
-│   ├── base
-│   ├── production 
-│   └── staging
-└── clusters
-    ├── production
-    └── staging
+--Structure--                                 </br></br>
+├── apps                                      </br>
+│   ├── base                                  </br>
+│   ├── production                            </br>
+│   └── staging                               </br>
+├── infrastructure                            </br>
+│   ├── base                                  </br>
+│   ├── production                            </br>
+│   └── staging                               </br>
+└── clusters                                  </br>
+    ├── production                            </br>
+    └── staging                               </br>
